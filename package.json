@@ -71,7 +71,7 @@
 		"@mediapipe/tasks-vision": "^0.10.17",
 		"@pixiv/three-vrm": "3.5.5",
 		"@pixiv/three-vrm-animation": "3.5.5",
-		"@pyscript/core": "^0.4.32",
+		"@pyscript/core": "^0.7.31",
 		"@sveltejs/adapter-node": "^2.0.0",
 		"@sveltejs/svelte-virtual-list": "^3.0.1",
 		"@tiptap/core": "^3.0.7",
